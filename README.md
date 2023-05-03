@@ -55,9 +55,9 @@ The following animation shows the web application's appearance and functionality
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application.: https://rudrijoshi.github.io/Assignment2/
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.: https://github.com/rudrijoshi/Assignment2/
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
