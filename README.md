@@ -41,6 +41,8 @@ The following animation shows the web application's appearance and functionality
 
 ## Credit
 
+
+
 I followed online tutorials from the educational resource at https://www.w3schools.com/ to gain valuable guidance and
 instruction in the completion of this project, leveraging their expertise and insights to ensure the quality and accuracy
 of my work.
